@@ -1,48 +1,14 @@
-MODELO COM VÁRIOS LINKS DO GDRIVE
-
-<item>
-<title>[COLOR blue] Todos os filmes [/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
-MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
-
-<item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
-<link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
 MODELO GDRIVE DE APENAS UM LINK
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[B][COLOR blue]A Gangue Esta em Campo[/COLOR][COLOR green]2006[/COLOR] - [COLOR lime]720p[/COLOR] DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FefKT2HHOiNyBPQEQQr8jz2yzm8XnmU1/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uR1P4O9gz5y794VGXbMlHl1D1Y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zSTzbW7fVFBydZYkh69N3bkv4f1.jpg</fanart>
+<info>Sean Porter (Dwayne Johnson) é um ex-jogador que trabalha como oficial de justiça criminal no centro de detenção juvenil Kilpatrick. Incomodado com a falta de disciplina, auto-estima, união e perspectiva de vida desses jovens prisioneiros, Sean sugere criar um time de futebol americano para inventivar os rapazes a darem a volta por cima e consertarem os erros do passado. A ideia é recebida com ceticismo e resistência por seus superiores, mas o oficial resolve colocar a sua carreira em risco para provar que a motivação pode mudar o futuro desses jovens.</info>
 <genre></genre>
 </item>
 
 
 
-MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
 
-<item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
