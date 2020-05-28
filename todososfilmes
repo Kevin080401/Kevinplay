@@ -15,7 +15,7 @@ MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 <item>
 <title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xnBjzYsJMLHU6bOY0rtvzy3hMATmNcAl/view$$lsname=[COLOR lime]720p[/COLOR] - EXPRESSO POLAR</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15YvQ2_imdbki9x2al41Er8cjWU1T9ymM/view?usp=sharing$$lsname=[COLOR lime]HD[/COLOR] - A Era Do Gelo 2</link>
 <link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
