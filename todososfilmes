@@ -26,8 +26,8 @@ MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 MODELO GDRIVE DE APENAS UM LINK
 
 <item>
-<title>De ferias com o ex teste</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aaXOJulAVLHAFS1PDnszQzuc_mqJmave/view</link>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
