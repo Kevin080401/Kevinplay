@@ -26,8 +26,8 @@ MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 MODELO GDRIVE DE APENAS UM LINK
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<title>[B][COLOR green]Expresso Polar [/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xnBjzYsJMLHU6bOY0rtvzy3hMATmNcAl/view</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -39,8 +39,8 @@ MODELO GDRIVE DE APENAS UM LINK
 MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
 
 <item>
-<title>[B][COLOR green] Expresso Polar[/COLOR][/B]</title>
-<link>https://cdn.netcine.info/html/content/conteudolb4/filmes2019/OEXPRESSOPOLAR-BAIXO.mp4?token=1CozWj3-mgf8geerS8NYBg&expires=1590701537&ip=45.183.21.73</link>
+<title>[B][COLOR green] [/COLOR][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
