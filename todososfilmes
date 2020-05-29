@@ -20,16 +20,42 @@ MODELO GDRIVE DE APENAS UM LINK
 <genre></genre>
 </item>
 
-MODELO COM VÁRIOS LINKS DO GDRIVE
+MODELO GDRIVE DE APENAS UM LINK
 
 <item>
-<title>[B][COLOR orange]A Era Do Gelo Coletania[/COLOR] - [COLOR lime]FULLHD[/COLOR] - DUBLADO [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11mUAcC0EIzmpZ8x0IVAyEjRhN0QPQS5-/view$$lsname=[COLOR lime]FULLHD[/COLOR] - A Era Do Gelo </link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15YvQ2_imdbki9x2al41Er8cjWU1T9ymM/view$$lsname=[COLOR lime]720p[/COLOR] - A Era Do Gelo 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16JxQ_eip3PT3qv0JVzN2D3DBw_dTCJu7/view$$lsname=[COLOR lime]720p[/COLOR] - A Era Do Gelo 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uQNzam-u_ThcxRN56Ccun1uNyVuwVNqw/view$$lsname=[COLOR lime]720p[/COLOR] - A Era Do Gelo 4</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EvsCXm5pP0YSKcYrJxTPkzFadF.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/vrNxDKVRbsTUUvSdZPDvtGNQL5X.jpg</fanart>
-<info>Franquia de filmes da coleção A Era do Gelo</info>
+<title>[B][COLOR orange]A Era Do Gelo[/COLOR] - [COLOR lime]FULLHD[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11mUAcC0EIzmpZ8x0IVAyEjRhN0QPQS5-/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlqC2gJs02gc23XvyOjoz52ToRI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/a9ykRAWtQnI3SsZDfh8sCJo5cWI.jpg</fanart>
+<info>O mamute Manny, o tigre de dente de sabre Diego e a preguiça-gigante Sid são amigos em uma época muito distante dos dias atuais e vivem suas vidas em meio a muito gelo. Até o dia em que eles encontram um menino esquimó totalmente sozinho, longe de seus pais, e decidem que precisam ajudá-lo a achar a sua família. Enquanto isso, o esquilo pré-histórico Scrat segue na sua saga para manter sua amada noz protegida de outros predadores.</info>
 <genre></genre>
-</item>
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title>[B][COLOR orange]A Era Do Gelo 2[/COLOR] - [COLOR lime]720p[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15YvQ2_imdbki9x2al41Er8cjWU1T9ymM/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikhU4KSoE6lihqWVGgSNkYemfvT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/trJxb96FXUvzMIQ5KSM4ICHXUko.jpg</fanart>
+<info>A era glacial está chegando ao fim e como consequência surgem em todo lugar gêiseres e verdadeiros parques aquáticos. O mamute Manfred, o tigre Diego e o bicho-preguiça Sid logo descobrem que toneladas de gelo estão prestes a derreter, o que inundaria o vale em que vivem. Logo, o trio de amigos precisa correr para avisar a todos do perigo e ainda encontrar um local em que não corram riscos.</info>
+<genre></genre>
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title>[B][COLOR orange]A Era Do Gelo 3[/COLOR] - [COLOR lime]720p[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16JxQ_eip3PT3qv0JVzN2D3DBw_dTCJu7/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpvU1rXCNoXiAVkzv12NJToIV5P.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/gkxSIlZPEwGPimQ8TEE8C52cOSO.jpg</fanart>
+<info>Manny e Ellie estão à espera de seu primeiro filho. Sid encontra alguns ovos de dinossauro, o que faz com que passe a ter sua própria família adotiva. Só que o roubo faz com que se meta em apuros, com a mãe tiranossauro vindo atrás de seus rebentos. Ela leva os três filhotes e ainda Sid para um mundo subterrâneo, onde os dinossauros ainda existem, o que obriga Manny, Ellie e Diego a irem em sua busca para resgatá-lo.</info>
+<genre></genre>
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title>[B][COLOR orange]A Era Do Gelo 4[/COLOR] - [COLOR lime]720p[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uQNzam-u_ThcxRN56Ccun1uNyVuwVNqw/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkKQdH4GiuQYz6qyQIyRVqWyVVT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/kyTlMMVWo1GffYoQctZwLqJcwaj.jpg</fanart>
+<info>Sempre em busca de sua cobiçada noz, o esquilo Scrat provoca, sem querer, a separação dos continentes. A situação provoca mudanças no terreno de vários locais, entre eles onde os amigos Manny, Diego e Siid estão alojados. Um terremoto faz com que o trio fique preso em um iceberg, enquanto que Ellie e a pequena Amora permanecem no continente. Em alto mar, Manny promete que irá encontrá-las a qualquer custo, mas para tanto precisará enfrentar perigosos piratas e o canto das sereias.</info>
+<genre></genre>
